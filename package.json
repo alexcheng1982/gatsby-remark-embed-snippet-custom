@@ -1,7 +1,7 @@
 {
   "name": "gatsby-remark-embed-snippet-custom",
   "description": "Gatsby plugin to embed formatted code snippets within markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Fu Cheng <alexcheng1982@gmail.com>",
   "bugs": {
     "url": "https://github.com/alexcheng1982/gatsby-remark-embed-snippet-custom/issues"
